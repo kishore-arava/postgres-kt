@@ -1,0 +1,55 @@
+https://www.javatpoint.com/where-vs-having
+
+Concepts:
+----------
+1. Whats a relational database
+   1. A relational database is a type of database that organizes data into rows and columns, which collectively form a table where the data points are related to each other
+2. Whats SQL
+3. Structure of SQL
+4. How's relational database powerful
+5. Resources in SQL
+6. Advanced things
+7. Some use cases
+
+Main commands:
+---------------
+1. \list or \l: list all databases
+2. \c <db name>: connect to a certain database
+3. \dt: list all tables in the current database using your search_path
+4. \dt *.: list all tables in the current database regardless your search_path
+5. 
+
+Database basics:
+----------------
+1. tables - create, alter, drop, truncate, alter
+2. data - insert, update, delete, select
+
+Special resources:
+------------------
+1. constraints - foreign key, primary key, not null, unique, auto increment, 
+
+Resources to cover:
+--------------------
+1. select
+2. where
+3. like, in, not
+4. =, >, <
+5. distinct
+6. limit, offset
+7. and, or
+8. order by, group by and aggregate functions
+9. 
+
+Advanced SQL concepts:
+-----------------------
+1. Partitions
+2. Explain, Explain analyze
+3. Sequences
+4. Views
+
+Data querying:
+---------------
+1. Unions
+2. Joins
+3. Case
+4. 
